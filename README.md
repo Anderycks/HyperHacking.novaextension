@@ -1,7 +1,7 @@
 # Hyper Hacking
 ## Am editor theme by Anderycks
 
-This is a theme that I, Deryck "Anderycks" Hodge, use. I first
+This is a theme that I, Deryck Hodge, use. I first
 created a terminal theme matching this colorscheme when I was
 using Hyper terminal. That's why I call this the Hyper Hacking
 theme.
