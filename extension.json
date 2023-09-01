@@ -4,5 +4,7 @@
     "organization": "net.anderycks",
     "description": "Personal editor style for Deryck 'Anderycks' Hodge.",
     "version": "1.0",
-    "categories": ["themes"]
+    "categories": ["themes"],
+    "bugs": "https://github.com/Anderycks/HyperHacking.novaextension/issues",
+    "repository": "https://github.com/Anderycks/HyperHacking.novaextension"
 }
